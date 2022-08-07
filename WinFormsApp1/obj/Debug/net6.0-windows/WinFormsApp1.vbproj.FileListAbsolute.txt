@@ -1,0 +1,17 @@
+D:\Visual 2022\Program_Grade\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Visual 2022\Program_Grade\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Visual 2022\Program_Grade\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Visual 2022\Program_Grade\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Visual 2022\Program_Grade\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Visual 2022\Program_Grade\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
