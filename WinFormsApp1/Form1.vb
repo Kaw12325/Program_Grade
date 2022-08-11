@@ -29,11 +29,11 @@
                 txt_grade.Text = " GRADE 4 "
             ElseIf total >= 70 And total <= 79 Then
                 txt_grade.Text = " GRADE 3 "
-            ElseIf total >= 70 And total <= 69 Then
+            ElseIf total >= 60 And total <= 69 Then
                 txt_grade.Text = " GRADE 2 "
-            ElseIf total >= 70 And total <= 59 Then
+            ElseIf total >= 50 And total <= 59 Then
                 txt_grade.Text = " GRADE 1 "
-            ElseIf total >= 70 And total <= 49 Then
+            ElseIf total >= 40 And total <= 49 Then
                 txt_grade.Text = " GRADE 0 "
             Else
                 txt_grade.Text = " ERROR "
