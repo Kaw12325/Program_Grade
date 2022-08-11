@@ -2,7 +2,7 @@
 โปรแกรมตัดเกรด โดยใส่คะแนนของเทอมนั้น ลงช่องข้อความจากนั้นกด Sum เพื่อดูคะแนนทั้งหมดรวมถึงดูGRADEได้
 # Git collaboration
 นาย เขมินต์ เข็มอินทร์(KENG)
-นาย อัคควัฒต์ บัวศรี(masyan455)
+ นาย อัคควัฒต์ บัวศรี(masyan455)
 # หน้าที่
 KENG - ทำกาารสร้าง Code ปุ่ม Clear
-masyan455 - เพิ่มตัว Clear Total and Graded
+ masyan455 - เพิ่มตัว Clear Total and Graded
