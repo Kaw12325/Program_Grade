@@ -17,6 +17,8 @@
     Private Sub btn_ok_Click(sender As Object, e As EventArgs) Handles btn_ok.Click
         If String.IsNullOrEmpty(txt_score1.Text) Or String.IsNullOrEmpty(txt_score2.Text) Then
             MessageBox.Show("กรุณากรอกตัวเลข")
+            txt_total.Text = ""
+            txt_grade.Text = ""
         Else
 
             Dim s1, s2, total As Single
